@@ -60,7 +60,7 @@ This application is fully frontend-based and hosted on **Netlify**. No backend/s
 
 | Package           | Purpose                              |
 |------------------|--------------------------------------|
-| `react-router-dom` | Page navigation & route protection |
+| `react-router` | Page navigation & route protection |
 | `firebase`         | Authentication (Email/Google)      |
 | `aos`              | Scroll animation                   |
 | `swiper`           | Event slider                       |
